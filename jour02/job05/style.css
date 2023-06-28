@@ -1,0 +1,27 @@
+body{
+    background-color: #e3dede;
+    min-height: 4096px;
+}
+
+footer{
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    width: 100%;
+    transition: background-color 0.25s ease;
+}
+.footer-color-0 {
+    background-color: chartreuse;
+  }
+  
+  .footer-color-25 {
+    background-color: yellow;
+  }
+  
+  .footer-color-50 {
+    background-color: orange;
+  }
+  
+  .footer-color-75 {
+    background-color: red;
+  }
